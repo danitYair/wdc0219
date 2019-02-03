@@ -6,4 +6,7 @@ another change to the file..
 adding yet another line
 
 add another conflicting line
-
+line 9
+line 10
+line 11
+line 12
