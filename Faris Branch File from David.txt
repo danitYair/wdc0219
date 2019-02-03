@@ -5,3 +5,5 @@ another change to the file..
 
 adding yet another line
 
+add another conflicting line
+
